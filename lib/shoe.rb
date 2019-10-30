@@ -18,6 +18,7 @@ class Shoe
   
   def cobble
   puts "Your shoe is as good as new!"
+  condition = "new"
   end 
   
   
@@ -26,8 +27,6 @@ class Shoe
   
   
 end 
-shoe.new
-shoe.condition= ("new")
-shoe.condition
+
 
  
