@@ -8,7 +8,7 @@ class Shoe
   attr_accessor  :color, :size, :material, :condition
   
   def cobble
-  puts 
+  puts "says that the shoe has been repaired"
   end 
   
   
