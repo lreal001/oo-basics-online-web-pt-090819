@@ -26,5 +26,8 @@ class Shoe
   
   
 end 
+shoe.new
+shoe.condition= ("new")
+shoe.condition
 
  
