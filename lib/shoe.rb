@@ -13,6 +13,7 @@ class Shoe
   
   def condition
     @condition
+    puts "new"
   end 
   
   def cobble
